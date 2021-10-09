@@ -16,7 +16,7 @@ The three ways of refactoring that we can do by using IntelliJ IDEA.
 - Extracting and Inlining
 - Change Signature
 - Renaming
--
+
 We will perform the method extraction and Inlining by using IntelliJ IDEA.
 
 ## Source Code to Refactor:
