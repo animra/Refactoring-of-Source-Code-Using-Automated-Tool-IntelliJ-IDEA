@@ -20,7 +20,8 @@ The three ways of refactoring that we can do by using IntelliJ IDEA.
 We will perform the method extraction and Inlining by using IntelliJ IDEA.
 
 ## Source Code to Refactor:
-You can use any source code written in JVM languages to refactor. In this case I use "Account.Java" code. **How I refactor this source code?** I published a blog where you can follow for further information.
+You can use any source code written in JVM languages to refactor. In this case I use "Account.Java" code. **How I refactor this source code?** 
+I published a blog where you can follow for further information.
 
 The Account code is refactored by using IntelliJ IDEA. It is one of the most powerful refactoring tools. The tasks like replacing loops or control statements, long methods, the elimination of duplicate code, and information abstraction can be done by using this tool. It also suggests suitable changes that help us to avoid errors in code, but it also has some limitations.
 
