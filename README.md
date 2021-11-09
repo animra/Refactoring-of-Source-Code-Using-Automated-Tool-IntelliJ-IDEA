@@ -25,4 +25,4 @@ I published a blog where you can follow for further information.
 
 The Account code is refactored by using IntelliJ IDEA. It is one of the most powerful refactoring tools. The tasks like replacing loops or control statements, long methods, the elimination of duplicate code, and information abstraction can be done by using this tool. It also suggests suitable changes that help us to avoid errors in code, but it also has some limitations.
 
-**Note:** **For detailed step by step procedure see this blog: https://medium.com/@nimraakram/refactoring-of-source-code-by-using-automated-tool-intellij-idea-99066dfbff5c **
+**Note:** For detailed step by step procedure see this blog: https://medium.com/@nimraakram/refactoring-of-source-code-by-using-automated-tool-intellij-idea-99066dfbff5c 
